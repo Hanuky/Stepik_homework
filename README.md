@@ -31,3 +31,7 @@
 * Lesson 2.3 Step 4
 * Lesson 2.3 Step 6
 * Lesson 2.3 Step 8
+
+### Unit 3
+
+* Lesson 3.2 Step 13
