@@ -1,8 +1,8 @@
 from selenium import webdriver
 import time
-import unittest
+    import unittest
 
-class TestAbs(unittest.TestCase):
+clas    s TestAbs(unittest.TestCase):
     def test_abs1(self):
         link = "http://suninjuly.github.io/registration1.html"
         browser = webdriver.Chrome()
